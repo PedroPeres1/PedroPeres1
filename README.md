@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá eu sou o Pedro Peres 🖐
 
-<!--
-**PedroPeres1/PedroPeres1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pedro Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPeres1&theme=blue-green)
 
-Here are some ideas to get you started:
+## Tecnologias que utilizo atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>    
+</div><br/>
+Estou Aprendendo a Protegendo o mundo digital, uma linha de código de cada vez. 🔒💻
+
+## Contato-me por:
+
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](peresp645@gmail.com) 
+<br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-b-peres/)
