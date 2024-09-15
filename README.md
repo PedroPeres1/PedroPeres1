@@ -1,4 +1,4 @@
-### Olá eu sou o Pedro Peres 🖐
+# Olá eu sou o Pedro Peres 🖐
 
 ![Pedro Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPeres1&theme=blue-green)
 
