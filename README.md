@@ -1,4 +1,4 @@
-# Hello, I am Pedro Peres <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raised%20Back%20of%20Hand.png" alt="Raised Back of Hand" width="25" height="25" />
+# Hi, I am Pedro Peres <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raised%20Back%20of%20Hand.png" alt="Raised Back of Hand" width="25" height="25" />
 <div align="left">
 
   <img src="https://github-readme-stats.vercel.app/api?username=PedroPeres1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
